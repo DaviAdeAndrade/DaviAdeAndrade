@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/davi-alves-de-andrade-4b8847215/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviAdeAndrade&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAdeAndrade&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daviadeandrade&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviadeandrade&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
