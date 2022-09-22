@@ -1,4 +1,4 @@
-## Olá! Eu sou o Davi Alves de Andrade 👋
+## Olá! Eu sou o Davi Alves de Andrade 👋🏼
 
 
 - 🔭 Trabalho como Soldado na Aeronáutica
