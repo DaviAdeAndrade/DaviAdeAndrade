@@ -3,7 +3,7 @@
 
 - 🔭 Trabalho como Soldado na Aeronáutica
 - 🌱 Estudando JavaScript
-- 👨‍🎓 2/5 - Análise e Desenvolvimento de Sistemas - Uninter
+- 👨‍🎓 3/5 - Análise e Desenvolvimento de Sistemas - Uninter
 
 <div align="center">
   <a href="https://www.linkedin.com/in/davi-alves-de-andrade-4b8847215/">
